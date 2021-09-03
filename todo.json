@@ -1,1 +1,11 @@
-[]
+{
+    "Happy": {
+        "completed": false
+    },
+    "Pretty": {
+        "completed": false
+    },
+    "Code": {
+        "completed": false
+    }
+}
